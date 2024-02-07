@@ -20,3 +20,17 @@ management:
     health:
       show-details: always
 
+db:
+  username: root
+  password: Shivanksri@1619
+  driver-class-name: com.mysql.cj.jdbc.Driver
+
+account:
+  credit: "CREDIT"
+  debit: "DEBIT"
+  success-status: "SUCCESSFUL"
+  customer-base-url: "http://customer-management-service/customer"
+
+customer:
+    account-base-url: "https://account-management-service/account"
+    
