@@ -22,7 +22,7 @@ management:
 
 db:
   username: root
-  password: Shivanksri@1619
+  password: root
   driver-class-name: com.mysql.cj.jdbc.Driver
 
 account:
